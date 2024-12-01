@@ -1,0 +1,9 @@
+label {
+    margin-bottom: 0; /* Removes the margin below the label */
+    display: block;   /* Ensures the label and input are stacked */
+  }
+  
+  input {
+    margin-bottom: 10px; /* Add consistent spacing between inputs */
+  }
+  
